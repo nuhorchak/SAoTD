@@ -1,9 +1,11 @@
+^Meta$
+^doc$
 ^.*\.Rproj$
 ^\.Rproj\.user$
-^\.httr-oauth$
+^.*\.httr-oauth$
 ^\.travis\.yml$
 ^\.circleci
-README.Rmd
+^README.Rmd$
 ^.*\.o$
 ^.*\.dll$
 ^.*\.so$
@@ -12,3 +14,5 @@ README.Rmd
 tests/testthat/.httr-oauth
 ^paper.bib$
 ^paper.md$
+^packrat/
+^\.Rprofile$

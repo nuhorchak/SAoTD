@@ -1,10 +1,13 @@
+doc
+Meta
+inst/doc
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
-.httr-oauth
+*.httr-oauth
 hidden/
 src/*.so
 src/*.o
 src/*.dll
-tests/testthat/.httr-oauth
+packrat/lib*/

@@ -1,4 +1,4 @@
-#' @name SAoTD
+#' @name saotd
 #' 
 #' @title Sentiment Analysis of Twitter Data
 #' 
@@ -11,8 +11,5 @@
 #' scores utilizing the Bing Lexicon, and output visualizations.
 #'
 #' For additional information and a description on how to use the package, 
-#' please look at the package vignette: utils::vignette('SAoTD').
-#' 
-#' @useDynLib SAoTD, .registration = TRUE
-#' @importFrom Rcpp evalCpp
+#' please look at the package vignette: utils::vignette('saotd').
 NULL
